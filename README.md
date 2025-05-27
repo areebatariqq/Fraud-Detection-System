@@ -1,4 +1,4 @@
-#  Fraud Detection System
+#Fraud Detection System
 
 This project is a **machine learning-based fraud detection system** built using Python and scikit-learn. It predicts the likelihood of a transaction being fraudulent based on various input features such as transaction amount, location, age, and merchant information.
 
@@ -21,12 +21,11 @@ Credit card fraud is a growing problem in the financial sector. This project dem
 
 ## 📂 Dataset
 
-The dataset used is named `Credit_card_fraud.csv`. It should include features like:
-- Transaction details: `amt`, `lat`, `long`, `city_pop`, `trans_date_trans_time`, `merchant`, `category`, `merch_lat`, `merch_long`, etc.
-- User demographics: `first`, `last`, `dob`, `gender`, `job`, `state`, etc.
-- Target label: `is_fraud`
+The dataset used is available on Kaggle:
 
-> ⚠️ **Note**: Please ensure this dataset is available in the project directory before running the code.
+🔗 **[Credit Card Fraud Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction)**
+
+Make sure to download `Credit_card_fraud.csv` from the above link and place it in your project directory.
 
 ---
 
