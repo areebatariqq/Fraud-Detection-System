@@ -1,4 +1,4 @@
-#Fraud Detection System
+# Fraud Detection System
 
 This project is a **machine learning-based fraud detection system** built using Python and scikit-learn. It predicts the likelihood of a transaction being fraudulent based on various input features such as transaction amount, location, age, and merchant information.
 
